@@ -184,7 +184,7 @@ Covered Topics:
 
 🐙 GitHub: https://github.com/ushaun01
 
-💼 LinkedIn: https://www.linkedin.com
+💼 LinkedIn: https://www.linkedin.com/in/usha-nazare/
 
 ---
 
