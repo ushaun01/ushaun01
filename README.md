@@ -1,6 +1,5 @@
 
 
-
  Hi 👋, I'm Usha Nazare
 
  QA Manual & Automation Tester | Python | Selenium | PyTest | API Testing
