@@ -2,7 +2,7 @@
 
  Hi 👋, I'm Usha Nazare
 
- QA Manual & Automation Tester | Python | Selenium | PyTest | API Testing
+ QA Engineer | ManualTester | Automation Tester | Python | Selenium | PyTest | API Testing | SQL |
 
 Mechanical Engineering graduate with 3 years of experience as a Quality Engineer and Quality Inspector. Transitioned into Software Testing with hands-on experience in Manual Testing and Automation Testing using Python, Selenium WebDriver, PyTest, Postman, MySQL, Jira, Git, and GitHub.
 
