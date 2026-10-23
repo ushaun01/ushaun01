@@ -1,5 +1,4 @@
 
-
  Hi 👋, I'm Usha Nazare
 
  QA Engineer | Manual Tester | Automation Tester | Python | Selenium | PyTest | API Testing | SQL | 
